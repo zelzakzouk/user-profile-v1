@@ -1,6 +1,7 @@
 # UserProfileV1
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.17.
+- The goal of this task is to create a standalone Angular user profile app with multiple profiles and real photos.
+- This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.17.
 
 ## Development server
 
